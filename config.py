@@ -27,7 +27,7 @@ presence_penalty = 0.5
 
 # Below is the name for your default csv terms file. You can change this to any csv file you want to use as your default terms file. It must be in the same folder as the main app.py file.
 
-default_terms_csv = "terms_template.csv"
+default_terms_csv = "SABER_terms_template-terms(1).csv"
 
 ############################################################################################################
 
@@ -37,7 +37,7 @@ default_terms_csv = "terms_template.csv"
 app_title = "DIY AI-enhanced study app for biologists"
 
 # The subtitle of the app
-app_author = "courtesy of UCSD School of Biological Sciences"
+app_author = "Taqieddin-Singh_SABER"
 
 # This is an intro paragraph you can add under the title. it is not currently being used in the app.
 intro_para = " "
